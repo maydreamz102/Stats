@@ -462,45 +462,6 @@
             }
         ]
     },
-    "Mangle": {
-        "Type": "Explosion",
-        "Image": "rbxassetid://16781119726",
-        "Rarity": "Secret",
-        "PlacePrice": 12500,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Offset": -0.2,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 100,
-                "Cooldown": 1.5
-            },
-            {
-                "Price": 20000,
-                "Range": 17,
-                "Damage": 150,
-                "Cooldown": 1.25
-            },
-            {
-                "Price": 25000,
-                "Range": 20,
-                "Damage": 200,
-                "Cooldown": 1
-            },
-            {
-                "Price": 30000,
-                "Range": 22,
-                "Damage": 250,
-                "Cooldown": 0.75
-            }
-        ]
-    },
     "Shadow Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://17270065249",
@@ -615,45 +576,6 @@
             }
         ]
     },
-    "Puppet": {
-        "Type": "Pierce",
-        "Image": "rbxassetid://17802016570",
-        "Rarity": "Secret",
-        "PlacePrice": 10000,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Offset": -1.9,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 500,
-                "Cooldown": 7
-            },
-            {
-                "Price": 15000,
-                "Range": 35,
-                "Damage": 600,
-                "Cooldown": 6
-            },
-            {
-                "Price": 20000,
-                "Range": 40,
-                "Damage": 700,
-                "Cooldown": 5.5
-            },
-            {
-                "Price": 25000,
-                "Range": 45,
-                "Damage": 800,
-                "Cooldown": 5
-            }
-        ]
-    },
     "Withered Golden Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://16781122207",
@@ -689,49 +611,6 @@
                 "Range": 20,
                 "Damage": 750,
                 "Cooldown": 1
-            }
-        ]
-    },
-    "Endo": {
-        "Type": "Support",
-        "Image": "rbxassetid://17851638702",
-        "Rarity": "Secret",
-        "PlacePrice": 1000,
-        "NoEnemyAttack": true,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 0,
-                "Cooldown": 1,
-                "DamageBoost": 1.06
-            },
-            {
-                "Price": 1700,
-                "Range": 15,
-                "Damage": 0,
-                "Cooldown": 1,
-                "DamageBoost": 1.12
-            },
-            {
-                "Price": 2200,
-                "Range": 15,
-                "Damage": 0,
-                "Cooldown": 1,
-                "DamageBoost": 1.18
-            },
-            {
-                "Price": 2500,
-                "Range": 15,
-                "Damage": 0,
-                "Cooldown": 1,
-                "DamageBoost": 1.24
             }
         ]
     },
@@ -848,45 +727,6 @@
                 "Range": 20,
                 "Damage": 14,
                 "Cooldown": 0.75
-            }
-        ]
-    },
-    "Pirate Withered Foxy": {
-        "Type": "Single",
-        "Image": "rbxassetid://17851205149",
-        "Rarity": "Secret",
-        "PlacePrice": 500,
-        "Offset": 0.55,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 25,
-                "Cooldown": 0.5
-            },
-            {
-                "Price": 800,
-                "Range": 18,
-                "Damage": 35,
-                "Cooldown": 0.4
-            },
-            {
-                "Price": 1400,
-                "Range": 20,
-                "Damage": 40,
-                "Cooldown": 0.3
-            },
-            {
-                "Price": 2000,
-                "Range": 20,
-                "Damage": 50,
-                "Cooldown": 0.3
             }
         ]
     },
